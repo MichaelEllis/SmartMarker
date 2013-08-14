@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<case version="101" ID="StudentTeacherExamples">
+  <lastName label="Surname" value="Doe" />
+  <firstName label="First name" value="John" />
+  <case_status label="Case Status" value="Close" />
+</case>
+

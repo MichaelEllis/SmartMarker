@@ -1,0 +1,11 @@
+<div>
+<img src="../../Logo.png" align="right" height="100"/>
+<p>
+<h2>Digital Scientific UK Ltd</h2>
+<h3>Karyotyping Test</h3>
+Michael Ellis<br/>
+Digital Scientific UK Ltd<br/>
+Sharaton House, Castle Park, Cambridge CB3 0AX.
+</p>
+<p><a href="http://www.dsuk.biz">www.dsuk.biz</a></p>
+</div>
