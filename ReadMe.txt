@@ -8,3 +8,7 @@ History:
 Instructions for SmartMarker
 
 Under GIT control
+
+Dependencies
+	JDom
+	ImageScope Library
