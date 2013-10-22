@@ -111,10 +111,10 @@ public class SmartMarkerUI {
 				}
 			}
 
-			System.exit(1);
+			System.exit(0);
 		} else {
 			LOGGER.info("No report produced.");
-			System.exit(0);
+			System.exit(-1);
 		}
 	}
 }
